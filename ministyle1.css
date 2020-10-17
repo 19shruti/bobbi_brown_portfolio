@@ -14,7 +14,21 @@ h1
 	transition: all 5s linear;
 
 }
+body {
+  background-image: url("img_tree.gif"), url("paper.gif");
+  background-color: #cccccc;
+}
+h1 {
+  background-color: green;
+}
 
+div {
+  background-color: lightblue;
+}
+
+p {
+  background-color: yellow;
+}
 button {
   background-color: grey;
   border: none;
